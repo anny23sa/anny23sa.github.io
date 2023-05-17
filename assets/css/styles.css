@@ -1,0 +1,25 @@
+.body {
+    font-family: 'Roboto, light';
+    margin: 0;
+}
+header {
+    display: flex;
+    height: 70px;
+    background-color: coral;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+.h2 {
+    color: black;
+}
+
+.nombot {
+    justify-content: space-around;
+}
+.info {
+    margin-left: 20px;
+}
+.section2 {
+    margin-left: 20px;
+}
